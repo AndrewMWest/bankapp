@@ -1,6 +1,12 @@
-.box {
+.rectangle {
     background: gray;
     font-style: bold;
+    font-size: 6px
+}
+
+.border {
+    background: lightblue;
+    font-style: italic;
     font-size: 6px
 }
 
